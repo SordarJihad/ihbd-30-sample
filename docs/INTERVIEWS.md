@@ -37,3 +37,4 @@ Notes: Writes orders on a whiteboard during the live, then photographs it.
 
 ## What I learned
 Missed orders and the nightly courier list are the strongest pains (4 of 5). COD reconciliation came up twice, so I will keep it in "Not now" for the MVP but note it. Low-volume sellers (interview 4) are not my first users.
+- 2026-11-26: re-read interviews for cohort test
